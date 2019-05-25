@@ -9,3 +9,10 @@
 #second {
     margin-top: 25px;
 }
+.button_css
+{
+	background-color: black;
+	color: white;
+	width: 150px;
+	height: 40px;
+}
